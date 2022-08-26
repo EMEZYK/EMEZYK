@@ -10,9 +10,9 @@ https://github.com/EMEZYK/FitBabeczka
 
 ## 🎉 Finished projects:
 
-https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/troll-or-not
-https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/Project3.Node.PlantLovers
-https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/Project2.React.Restaurant
+https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/troll-or-not</br>
+https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/Project3.Node.PlantLovers</br>
+https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/Project2.React.Restaurant</br>
 
 ## 🛠 My technologies and tools:
 - JavaScript
