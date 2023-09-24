@@ -17,13 +17,17 @@ https://github.com/Coderscamp-2021-2022-Lukasz-Kamil/Project2.React.Restaurant</
 ## 🛠 My technologies and tools:
 - JavaScript
 - React
+- Angular
 - HTML5
 - CSS3
 - Styled components
 - Node.js
 - TypeScript
+- Rxjs
 - MongoDB
-- Express.j
+- PostgreSQL
+- Sequelize
+- Express.js
 - Git
 - Jest (Unit Testing)
 - React Testing Library
